@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1637755233 source:c:\users\ryzen\desktop\oops mte\oops\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"casino.h"
+	"quiz.h"
+	"shooter.h"
+	"brickbreaker.h"
+	"Detective.h"
+
+1637438729 c:\users\ryzen\desktop\oops mte\oops\casino.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1637439020 c:\users\ryzen\desktop\oops mte\oops\quiz.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+
+1637439239 c:\users\ryzen\desktop\oops mte\oops\brickbreaker.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1637441343 c:\users\ryzen\desktop\oops mte\oops\detective.h
+	<iostream>
+	<ctime>
+
+1637754484 c:\users\ryzen\desktop\oops mte\oops\shooter.h
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
